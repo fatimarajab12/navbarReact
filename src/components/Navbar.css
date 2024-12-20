@@ -1,0 +1,11 @@
+.navbar .nav-link {
+    color: #ffe100; /* Default color */
+    text-decoration: none; /* Remove underline by default */
+  }
+  
+  .navbar .nav-link.active {
+    text-decoration: underline; 
+    color: rgb(28, 28, 27); 
+    
+  }
+  
